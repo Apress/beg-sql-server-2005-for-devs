@@ -1,0 +1,7 @@
+USE ApressFinancial
+GO
+CREATE SCHEMA TransactionDetails AUTHORIZATION dbo
+GO
+CREATE SCHEMA ShareDetails AUTHORIZATION dbo
+GO
+CREATE SCHEMA CustomerDetails AUTHORIZATION dbo
